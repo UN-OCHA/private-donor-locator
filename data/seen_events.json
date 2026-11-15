@@ -11506,5 +11506,53 @@
     ],
     "date_found": "2026-11-14T12:57:17.309523+00:00",
     "is_duplicate_of": null
+  },
+  {
+    "entry_id": "989bd01c-63c7-474f-92a9-acd9a092a952",
+    "donor": "Dayal Opticals",
+    "recipient": "Goonj",
+    "recipient_type": "NGO",
+    "amount_text": null,
+    "is_in_kind": true,
+    "in_kind_description": "300 pairs of eyeglasses",
+    "country_scope": "Unspecified / global",
+    "status": "new_commitment",
+    "summary": "Dayal Opticals donated 300 pairs of eyeglasses to Goonj, an NGO.",
+    "figure_quote": "300 pairs of eyeglasses",
+    "assumptions": [],
+    "confidence_score": 7,
+    "confidence_breakdown": {
+      "source_tier": {
+        "value": "general_news",
+        "points": 2
+      },
+      "explicit_amount_stated": {
+        "value": true,
+        "points": 3
+      },
+      "multiple_independent_sources": {
+        "value": 1,
+        "points": 0
+      },
+      "monitored_recipient": {
+        "value": false,
+        "points": 0
+      },
+      "specific_recipient_named": {
+        "value": true,
+        "points": 2
+      }
+    },
+    "source_urls": [
+      "https://www.newsx.com/bl-news/dayal-opticals-supports-goonj-with-a-contribution-of-300-pairs-of-eyeglasses-289826/"
+    ],
+    "source_names": [
+      "newsx.com"
+    ],
+    "source_channels": [
+      "Media Cloud"
+    ],
+    "date_found": "2026-11-15T13:27:19.807443+00:00",
+    "is_duplicate_of": "f6fb971d-5646-4303-889f-4fb4fe093c7d"
   }
 ]
