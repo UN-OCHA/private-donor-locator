@@ -11554,5 +11554,153 @@
     ],
     "date_found": "2026-11-15T13:27:19.807443+00:00",
     "is_duplicate_of": "f6fb971d-5646-4303-889f-4fb4fe093c7d"
+  },
+  {
+    "entry_id": "248a9c3e-68c5-4b92-9d13-c0655ef83137",
+    "donor": "Leo’s Pride Foundation",
+    "recipient": "Irmo (specific project: Inclusive Playground)",
+    "recipient_type": "Other Nonprofit",
+    "amount_text": "$100,000",
+    "is_in_kind": false,
+    "in_kind_description": null,
+    "country_scope": "Unspecified / global",
+    "status": "new_commitment",
+    "summary": "Leo's Pride Foundation has donated $100,000 to support the construction of an inclusive playground in Irmo.",
+    "figure_quote": "$100,000",
+    "assumptions": [],
+    "confidence_score": 7,
+    "confidence_breakdown": {
+      "source_tier": {
+        "value": "general_news",
+        "points": 2
+      },
+      "explicit_amount_stated": {
+        "value": true,
+        "points": 3
+      },
+      "multiple_independent_sources": {
+        "value": 1,
+        "points": 0
+      },
+      "monitored_recipient": {
+        "value": false,
+        "points": 0
+      },
+      "specific_recipient_named": {
+        "value": true,
+        "points": 2
+      }
+    },
+    "source_urls": [
+      "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQXluUEt2VlY1S0w5S21jbVY2THFDNXJCeHQxLVhZM0lCTTZSb1p0UTlKdzN0cFFsVGNIS3Q3dTN2Z19acVY0QktWVG1hc2hwd250QkMwbFJxQlcydHJNV3RVX3ppbURCVkhHaGQ3aVJVRmg4ZUJ6R1QxQnRLZUo3aW5nck9CQ3Z0eDAtR1JnYlNIc1QwbjlmOXc0S2hLVTZXcWVEWURFemNlajBzLWNxVmNmOHpWdlMzTEhLS19qcmZRNFRGSzFCdWdkZTFoMlA0?oc=5"
+    ],
+    "source_names": [
+      "swlexledger"
+    ],
+    "source_channels": [
+      "Google News"
+    ],
+    "date_found": "2026-11-17T15:21:26.220682+00:00",
+    "is_duplicate_of": null
+  },
+  {
+    "entry_id": "ce3ddca3-37e8-4192-9752-205165c4a7ea",
+    "donor": "African Development Bank",
+    "recipient": "United Nations Development Programme",
+    "recipient_type": "UN Agency",
+    "amount_text": "$26 million",
+    "is_in_kind": false,
+    "in_kind_description": null,
+    "country_scope": "Sudan",
+    "status": "new_commitment",
+    "summary": "The African Development Bank has committed $26 million to restore healthcare services for 3.1 million Sudanese people.",
+    "figure_quote": "$26 million",
+    "assumptions": [
+      "The African Development Bank is treated as a private-sector entity for this context, though it is a multilateral development finance institution."
+    ],
+    "confidence_score": 10,
+    "confidence_breakdown": {
+      "source_tier": {
+        "value": "general_news",
+        "points": 2
+      },
+      "explicit_amount_stated": {
+        "value": true,
+        "points": 3
+      },
+      "multiple_independent_sources": {
+        "value": 1,
+        "points": 0
+      },
+      "monitored_recipient": {
+        "value": true,
+        "points": 3
+      },
+      "specific_recipient_named": {
+        "value": true,
+        "points": 2
+      }
+    },
+    "source_urls": [
+      "https://allafrica.com/stories/202611170087.html"
+    ],
+    "source_names": [
+      "allafrica.com"
+    ],
+    "source_channels": [
+      "GDELT GKG"
+    ],
+    "date_found": "2026-11-17T15:24:15.709807+00:00",
+    "is_duplicate_of": null
+  },
+  {
+    "entry_id": "0e5bb96d-c7f8-446b-a19b-94be0352a4cb",
+    "donor": "David Beckham",
+    "recipient": "7 Fund",
+    "recipient_type": "Other Nonprofit",
+    "amount_text": "$50M+",
+    "is_in_kind": false,
+    "in_kind_description": null,
+    "country_scope": "Unspecified / global",
+    "status": "unclear",
+    "summary": "David Beckham's 7 Fund, supported by wage waivers, has protected millions of children over two decades.",
+    "figure_quote": "$50M+ humanitarian legacy",
+    "assumptions": [
+      "The source does not specify if the $50M+ is a cumulative amount or an annual pledge."
+    ],
+    "confidence_score": 7,
+    "confidence_breakdown": {
+      "source_tier": {
+        "value": "general_news",
+        "points": 2
+      },
+      "explicit_amount_stated": {
+        "value": true,
+        "points": 3
+      },
+      "multiple_independent_sources": {
+        "value": 1,
+        "points": 0
+      },
+      "monitored_recipient": {
+        "value": false,
+        "points": 0
+      },
+      "specific_recipient_named": {
+        "value": true,
+        "points": 2
+      }
+    },
+    "source_urls": [
+      "https://timesofindia.indiatimes.com/sports/international-sports/david-beckhams-50m-humanitarian-legacy-reaches-two-decade-milestone-as-7-fund-and-wage-waivers-protect-millions-of-children/articleshow/135866618.cms"
+    ],
+    "source_names": [
+      "indiatimes.com"
+    ],
+    "source_channels": [
+      "Media Cloud"
+    ],
+    "date_found": "2026-11-17T15:25:46.134127+00:00",
+    "is_duplicate_of": null
   }
 ]
