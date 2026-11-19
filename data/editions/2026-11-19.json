@@ -1,0 +1,340 @@
+{
+  "date": "2026-11-19",
+  "entries": [
+    {
+      "entry_id": "ed6d663d-7344-4f67-af2c-4c344233bf44",
+      "donor": "Sony",
+      "recipient": "UNICEF",
+      "recipient_type": "UN Agency",
+      "amount_text": "$4.5 million",
+      "is_in_kind": false,
+      "in_kind_description": null,
+      "country_scope": "Unspecified / global",
+      "status": "new_commitment",
+      "summary": "Sony has committed $4.5 million to UNICEF to expand their education partnership.",
+      "figure_quote": "USD 4.5 mln",
+      "assumptions": [],
+      "confidence_score": 10,
+      "confidence_breakdown": {
+        "source_tier": {
+          "value": "general_news",
+          "points": 2
+        },
+        "explicit_amount_stated": {
+          "value": true,
+          "points": 3
+        },
+        "multiple_independent_sources": {
+          "value": 1,
+          "points": 0
+        },
+        "monitored_recipient": {
+          "value": true,
+          "points": 3
+        },
+        "specific_recipient_named": {
+          "value": true,
+          "points": 2
+        }
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVnZRb3lvdUtuRHBkcFR1MXZQcEQxUnMyWXJvWlV1UjJjNmxwREpreTNVZkh1ZEpjU2Y3YmhmMGpDMkdTWUFnYjQ0M1Y4Y2tUMlVjRGZPMVhoRHFLY2R1YXhzZ1dlNzlEbkpoR1NvOEVDQ2RoYjg0djl2MWw0NXJHSTFlcVEtSkpMS1RoTUxHeHczckRRV3BEWHFvM2liWGxDcldJdWpSSTh6Ync?oc=5"
+      ],
+      "source_names": [
+        "Telecompaper"
+      ],
+      "source_channels": [
+        "Google News"
+      ],
+      "date_found": "2026-11-19T15:04:07.393779+00:00",
+      "is_duplicate_of": null
+    },
+    {
+      "entry_id": "428a3f06-37e3-4b63-9ffd-6566f7190eb1",
+      "donor": "Nazarene International Hospital",
+      "recipient": "UNICEF",
+      "recipient_type": "UN Agency",
+      "amount_text": "10 million Won",
+      "is_in_kind": false,
+      "in_kind_description": null,
+      "country_scope": "Unspecified / global",
+      "status": "new_commitment",
+      "summary": "Nazarene International Hospital donated 10 million Won to UNICEF.",
+      "figure_quote": "Donates 10 Million Won",
+      "assumptions": [],
+      "confidence_score": 10,
+      "confidence_breakdown": {
+        "source_tier": {
+          "value": "general_news",
+          "points": 2
+        },
+        "explicit_amount_stated": {
+          "value": true,
+          "points": 3
+        },
+        "multiple_independent_sources": {
+          "value": 1,
+          "points": 0
+        },
+        "monitored_recipient": {
+          "value": true,
+          "points": 3
+        },
+        "specific_recipient_named": {
+          "value": true,
+          "points": 2
+        }
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jMmp4WUl5akJzSWdkNUFwZ1RTeTBSRlZCR1pCZXZncU8weExXQ1VkX2JpQ3hlYlFNME1XZmViM0ZNa3F1V3pkRWtobWxoamZwdWhYcm1Ud2Q?oc=5"
+      ],
+      "source_names": [
+        "파이낸셜뉴스"
+      ],
+      "source_channels": [
+        "Google News"
+      ],
+      "date_found": "2026-11-19T15:05:18.596030+00:00",
+      "is_duplicate_of": null
+    },
+    {
+      "entry_id": "8ee23697-e66f-43b2-8ec5-4e22a2b4a9e6",
+      "donor": "Melinda French Gates",
+      "recipient": "Various organizations including Google, LinkedIn, University of Sydney, Backspinz Music Academy, Daddy Stroller Social Club, Asian Mental Health, Safer Births in Crises Consortium, Equimundo Center, Matariki Fund for Women, Instagram, Associated Press, Minderoo Foundation, Lilly Endowment Inc, School of Public Health, International Rescue Committee, Caring Masculinity Fund.",
+      "recipient_type": "INGO",
+      "amount_text": "$20 million",
+      "is_in_kind": false,
+      "in_kind_description": null,
+      "country_scope": "Unspecified / global",
+      "status": "new_commitment",
+      "summary": "Melinda French Gates donated $20 million to three leaders who then distributed the funds to various organizations.",
+      "figure_quote": "$20 million",
+      "assumptions": [
+        "The specific allocation of funds to each organization is not detailed in the source text."
+      ],
+      "confidence_score": 10,
+      "confidence_breakdown": {
+        "source_tier": {
+          "value": "general_news",
+          "points": 2
+        },
+        "explicit_amount_stated": {
+          "value": true,
+          "points": 3
+        },
+        "multiple_independent_sources": {
+          "value": 55,
+          "points": 3
+        },
+        "monitored_recipient": {
+          "value": true,
+          "points": 3
+        },
+        "specific_recipient_named": {
+          "value": true,
+          "points": 2
+        }
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVmxDUlZ1b2pKcGJnRWh5aTVBM25NNFJhdUp3aDRpZVRHVWdHMmFsV3VQZy1QNkd6bkpUSU0xQnExdWF5ckVwTEF0M3VzNFN1RXhURmc0X2VQMnhlMnF4WGZfS0l0cEV4RDBkbU1BajdDa1BLd3pwWW9PVG5hYk0xYWFaVnNSTlNWcUFnOWlDVlJyR3RWYVRTZk9jeTl5SkdKTjNMbG5weWxFa3IxQWU1YQ?oc=5",
+        "https://www.union-bulletin.com/news/national/how-three-leaders-donated-the-20-million-melinda-french-gates-gave-them-with-no-strings/article_e2861baa-4c7c-5310-8ac6-18b23b140273.html",
+        "http://www.idahostatejournal.com/news/national/how-three-leaders-donated-the-20-million-melinda-french-gates-gave-them-with-no-strings/article_9d18f11e-8942-5ea3-aa2e-89794f091f80.html",
+        "https://www.therecord.com/business/how-three-leaders-donated-the-20-million-melinda-french-gates-gave-them-with-no-strings-attached/article_f4de151d-7309-51c0-b341-ef4552526eba.html",
+        "https://www.news4jax.com/business/2026/11/18/how-three-leaders-donated-the-20-million-melinda-french-gates-gave-them-with-no-strings-attached/",
+        "https://abcnews.com/Business/wireStory/leaders-donated-20-million-melinda-french-gates-gave-138245649",
+        "https://www.dailygazette.com/ade/ap/business/how-three-leaders-donated-the-20-million-melinda-french-gates-gave-them-with-no-strings/article_d102af7c-fa6a-5cb9-81bb-03f521646c18.html",
+        "https://www.clickondetroit.com/business/2026/11/18/how-three-leaders-donated-the-20-million-melinda-french-gates-gave-them-with-no-strings-attached/",
+        "https://www.niagarafallsreview.ca/business/how-three-leaders-donated-the-20-million-melinda-french-gates-gave-them-with-no-strings-attached/article_38c1caf0-2792-5311-b494-ccce63195663.html",
+        "https://www.khqa.com/news/nation-world/how-three-leaders-donated-the-20-million-melinda-french-gates-gave-them-with-no-strings/article_911329f4-b8b8-50bd-a6d6-bc5a5364cd2b.html",
+        "https://www.dailygazette.com/leader_herald/ap/business/how-three-leaders-donated-the-20-million-melinda-french-gates-gave-them-with-no-strings/article_d102af7c-fa6a-5cb9-81bb-03f521646c18.html",
+        "https://www.wsls.com/business/2026/11/18/how-three-leaders-donated-the-20-million-melinda-french-gates-gave-them-with-no-strings-attached/",
+        "https://www.wral.com/news/ap/61e64-how-three-leaders-donated-the-20-million-melinda-french-gates-gave-them-with-no-strings-attached/",
+        "https://www.ktvo.com/news/nation-world/how-three-leaders-donated-the-20-million-melinda-french-gates-gave-them-with-no-strings/article_2d4af55e-d641-5b1c-9eb4-2498a6d2dd4c.html",
+        "https://www.clickorlando.com/business/2026/11/18/how-three-leaders-donated-the-20-million-melinda-french-gates-gave-them-with-no-strings-attached/",
+        "https://www.nvdaily.com/associated_press_national/how-three-leaders-donated-the-20-million-melinda-french-gates-gave-them-with-no-strings/article_abf450e1-67cc-5898-b59a-188aa79217bd.html",
+        "https://www.record-bee.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.republicanherald.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.dailydemocrat.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.timescall.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.sentinelandenterprise.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.bostonherald.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.orovillemr.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.dailyherald.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.dailypress.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.lowellsun.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.twincities.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.mainlinemedianews.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://isp.netscape.com:443/pf/story/0001/20261118/61e640275c9d4314453487ab3a4e5999",
+        "https://www.standardspeaker.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.eptrail.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.eastbaytimes.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.orlandosentinel.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.reporterherald.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.canoncitydailyrecord.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.capitalgazette.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.thetimes-tribune.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.readingeagle.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.thereporteronline.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.akronnewsreporter.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.ocregister.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.dailynews.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.fortmorgantimes.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.coloradohometownweekly.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.greeleytribune.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.advocate-news.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.mcall.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.dailylocal.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.citizensvoice.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.dailycamera.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.pilotonline.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.courant.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.sun-sentinel.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.journal-advocate.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.broomfieldenterprise.com/2026/11/18/melinda-french-gates-money-donations/",
+        "https://www.timesherald.com/2026/11/18/melinda-french-gates-money-donations/"
+      ],
+      "source_names": [
+        "eptrail.com",
+        "fortmorgantimes.com",
+        "ocregister.com",
+        "wral.com",
+        "lowellsun.com",
+        "reporterherald.com",
+        "capitalgazette.com",
+        "union-bulletin.com",
+        "dailycamera.com",
+        "citizensvoice.com",
+        "ktvo.com",
+        "record-bee.com",
+        "nvdaily.com",
+        "dailyherald.com",
+        "sun-sentinel.com",
+        "republicanherald.com",
+        "clickondetroit.com",
+        "therecord.com",
+        "journal-advocate.com",
+        "sentinelandenterprise.com",
+        "news4jax.com",
+        "The Independent",
+        "canoncitydailyrecord.com",
+        "thetimes-tribune.com",
+        "readingeagle.com",
+        "bostonherald.com",
+        "clickorlando.com",
+        "orovillemr.com",
+        "dailynews.com",
+        "courant.com",
+        "abcnews.com",
+        "dailylocal.com",
+        "idahostatejournal.com",
+        "orlandosentinel.com",
+        "pilotonline.com",
+        "khqa.com",
+        "advocate-news.com",
+        "akronnewsreporter.com",
+        "standardspeaker.com",
+        "coloradohometownweekly.com",
+        "eastbaytimes.com",
+        "netscape.com",
+        "dailypress.com",
+        "dailygazette.com",
+        "thereporteronline.com",
+        "niagarafallsreview.ca",
+        "mainlinemedianews.com",
+        "twincities.com",
+        "greeleytribune.com",
+        "timescall.com",
+        "wsls.com",
+        "broomfieldenterprise.com",
+        "mcall.com",
+        "dailydemocrat.com",
+        "timesherald.com"
+      ],
+      "source_channels": [
+        "GDELT GKG",
+        "Google News"
+      ],
+      "date_found": "2026-11-19T15:08:15.876338+00:00",
+      "is_duplicate_of": null
+    }
+  ],
+  "stats": {
+    "feeds_checked": 203,
+    "google_news_queries": 200,
+    "gdelt_files_processed": 96,
+    "gdelt_candidates_found": 697,
+    "mediacloud_queries_made": 7,
+    "mediacloud_candidates_found": 83,
+    "recipients_watched": 50,
+    "pr_wire_feeds": 3,
+    "items_considered": 1885,
+    "items_filtered_as_stale": 776,
+    "max_article_age_days": 14,
+    "items_after_trigger_filter": 215,
+    "clusters_analysed": 82,
+    "skipped_due_to_ai_budget": 0,
+    "duplicates_skipped": 0,
+    "rejected_unnamed_recipient": 0,
+    "rejected_no_named_donor": 3,
+    "rejected_out_of_scope_country": 1,
+    "rejected_government_entity": 1,
+    "rejected_unspecified_scope_excluded": 0,
+    "rejected_donor_is_monitored_recipient": 0,
+    "rejected_no_evidence": 0,
+    "rejected_government_donor": 4,
+    "entries_published": 3,
+    "high_confidence_count": 3
+  },
+  "fetch_failures": [
+    {
+      "source_label": "Google News: International Committee of the Red Cross",
+      "url": "https://news.google.com/rss/search?q=%28%22International+Committee+of+the+Red+Cross%22+OR+%22ICRC%22%29+%28%22corporate+donation%22+OR+%22donates%22+OR+%22donated%22+OR+%22contributes%22+OR+%22contributed%22+OR+%22pledges%22+OR+%22pledged%22+OR+%22sponsors%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22International+Committee+of+the+Red+Cross%22+OR+%22ICRC%22%29+%28%22corporate+donation%22+OR+%22donates%22+OR+%22donated%22+OR+%22contributes%22+OR+%22contributed%22+OR+%22pledges%22+OR+%22pledged%22+OR+%22sponsors%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "source_label": "Google News: CARE International",
+      "url": "https://news.google.com/rss/search?q=%28%22CARE+International%22%29+%28%22csr+commitment%22+OR+%22private+sector+support%22+OR+%22private+sector+donation%22+OR+%22philanthropic+gift%22+OR+%22philanthropic+donation%22+OR+%22charitable+giving%22+OR+%22in-kind+donation%22+OR+%22in-kind+contribution%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22CARE+International%22%29+%28%22csr+commitment%22+OR+%22private+sector+support%22+OR+%22private+sector+donation%22+OR+%22philanthropic+gift%22+OR+%22philanthropic+donation%22+OR+%22charitable+giving%22+OR+%22in-kind+donation%22+OR+%22in-kind+contribution%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "source_label": "Google News: Action Against Hunger",
+      "url": "https://news.google.com/rss/search?q=%28%22Action+Against+Hunger%22+OR+%22ACF%22+OR+%22Action+Contre+la+Faim%22%29+%28%22csr+commitment%22+OR+%22private+sector+support%22+OR+%22private+sector+donation%22+OR+%22philanthropic+gift%22+OR+%22philanthropic+donation%22+OR+%22charitable+giving%22+OR+%22in-kind+donation%22+OR+%22in-kind+contribution%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22Action+Against+Hunger%22+OR+%22ACF%22+OR+%22Action+Contre+la+Faim%22%29+%28%22csr+commitment%22+OR+%22private+sector+support%22+OR+%22private+sector+donation%22+OR+%22philanthropic+gift%22+OR+%22philanthropic+donation%22+OR+%22charitable+giving%22+OR+%22in-kind+donation%22+OR+%22in-kind+contribution%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "source_label": "Google News: Catholic Relief Services",
+      "url": "https://news.google.com/rss/search?q=%28%22Catholic+Relief+Services%22+OR+%22CRS%22%29+%28%22csr+commitment%22+OR+%22private+sector+support%22+OR+%22private+sector+donation%22+OR+%22philanthropic+gift%22+OR+%22philanthropic+donation%22+OR+%22charitable+giving%22+OR+%22in-kind+donation%22+OR+%22in-kind+contribution%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22Catholic+Relief+Services%22+OR+%22CRS%22%29+%28%22csr+commitment%22+OR+%22private+sector+support%22+OR+%22private+sector+donation%22+OR+%22philanthropic+gift%22+OR+%22philanthropic+donation%22+OR+%22charitable+giving%22+OR+%22in-kind+donation%22+OR+%22in-kind+contribution%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "source_label": "GlobeNewswire - Nonprofit",
+      "url": "https://www.globenewswire.com/en/search/subject/Non-profit%2520organisation/feedType/rss",
+      "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/en/search/subject/Non-profit%2520organisation/feedType/rss"
+    },
+    {
+      "source_label": "CSRWire",
+      "url": "https://csrwire.com/feed/",
+      "error": "403 Client Error: Forbidden for url: https://csrwire.com/feed/"
+    },
+    {
+      "source_label": "Media Cloud: World Food Programme, United Nations Children's Fund, United Nations High Commissioner for Refugees, United Nations Development Programme, World Health Organization, International Organization for Migration, UN Office for the Coordination of Humanitarian Affairs, UN Population Fund",
+      "url": "collection 9272347",
+      "error": "HTTPSConnectionPool(host='search.mediacloud.org', port=443): Read timed out. (read timeout=60)"
+    },
+    {
+      "source_label": "Media Cloud: UN Women, Office of the UN High Commissioner for Human Rights, UN Relief and Works Agency for Palestine Refugees, World Bank, UN Central Emergency Response Fund, Afghanistan Humanitarian Fund, Central African Republic Humanitarian Fund, Democratic Republic of the Congo Humanitarian Fund",
+      "url": "collection 9272347",
+      "error": "HTTPSConnectionPool(host='search.mediacloud.org', port=443): Read timed out. (read timeout=60)"
+    },
+    {
+      "source_label": "Media Cloud: Syria Humanitarian Fund, Syria Cross-border Humanitarian Fund, Ukraine Humanitarian Fund, Venezuela Humanitarian Fund, Yemen Humanitarian Fund, Regional Humanitarian Fund for West and Central Africa, Latin America and Caribbean Humanitarian Fund, International Committee of the Red Cross",
+      "url": "collection 9272347",
+      "error": "HTTPSConnectionPool(host='search.mediacloud.org', port=443): Read timed out. (read timeout=60)"
+    },
+    {
+      "source_label": "Media Cloud: International Federation of Red Cross and Red Crescent Societies, Save the Children, Médecins Sans Frontières, Oxfam, International Rescue Committee, CARE International, Norwegian Refugee Council, Mercy Corps",
+      "url": "collection 9272347",
+      "error": "HTTPSConnectionPool(host='search.mediacloud.org', port=443): Read timed out. (read timeout=60)"
+    }
+  ]
+}
