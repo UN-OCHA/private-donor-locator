@@ -11958,5 +11958,53 @@
     ],
     "date_found": "2026-11-19T15:08:15.876338+00:00",
     "is_duplicate_of": null
+  },
+  {
+    "entry_id": "3851b9b5-1bc6-4810-b32e-850a7d050005",
+    "donor": "Gates Foundation",
+    "recipient": "Exo",
+    "recipient_type": "Other Nonprofit",
+    "amount_text": "$11.6 million",
+    "is_in_kind": false,
+    "in_kind_description": null,
+    "country_scope": "Unspecified / global",
+    "status": "new_commitment",
+    "summary": "Exo received a $11.6 million grant from the Gates Foundation to expand access to ultrasound technology.",
+    "figure_quote": "$11.6m Gates Foundation grant",
+    "assumptions": [],
+    "confidence_score": 7,
+    "confidence_breakdown": {
+      "source_tier": {
+        "value": "general_news",
+        "points": 2
+      },
+      "explicit_amount_stated": {
+        "value": true,
+        "points": 3
+      },
+      "multiple_independent_sources": {
+        "value": 1,
+        "points": 0
+      },
+      "monitored_recipient": {
+        "value": false,
+        "points": 0
+      },
+      "specific_recipient_named": {
+        "value": true,
+        "points": 2
+      }
+    },
+    "source_urls": [
+      "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQm5JbVdSMFBwbklmRHUtWnNmbG9ZYUFvdW81RWhhR3dNb2ZUTWVHejJqNXV0dFVmcEtXVV9YcFc5WHVJYUk3WmxPeV91dENMSENmVXpNck5pWkVqWVh3TF9ZM25INTNPSGRNb09EVWFXUUV0eGt0dTB6d2lRQzRPekJtWDlITHNWNDZzUDRmd1lCWlFuVEpMMTlZY09kWG4zS0pSajFJM1dvb1pScUE?oc=5"
+    ],
+    "source_names": [
+      "Medical Device Network"
+    ],
+    "source_channels": [
+      "Google News"
+    ],
+    "date_found": "2026-11-20T14:47:08.591869+00:00",
+    "is_duplicate_of": null
   }
 ]
