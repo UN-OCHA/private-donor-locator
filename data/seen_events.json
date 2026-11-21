@@ -12006,5 +12006,53 @@
     ],
     "date_found": "2026-11-20T14:47:08.591869+00:00",
     "is_duplicate_of": null
+  },
+  {
+    "entry_id": "67089e3a-fb51-4b10-8a06-a64f0836367d",
+    "donor": "Epic Blue Marketing",
+    "recipient": "nonprofits and startups",
+    "recipient_type": "Other Nonprofit",
+    "amount_text": "$50,000",
+    "is_in_kind": true,
+    "in_kind_description": "professional marketing, communications and public relations services",
+    "country_scope": "Unspecified / global",
+    "status": "new_commitment",
+    "summary": "Epic Blue Marketing donated over $50,000 worth of professional services to nonprofits and startups in 2026.",
+    "figure_quote": "more than $50,000 in Professional Services",
+    "assumptions": [],
+    "confidence_score": 8,
+    "confidence_breakdown": {
+      "source_tier": {
+        "value": "wire_service",
+        "points": 3
+      },
+      "explicit_amount_stated": {
+        "value": true,
+        "points": 3
+      },
+      "multiple_independent_sources": {
+        "value": 1,
+        "points": 0
+      },
+      "monitored_recipient": {
+        "value": false,
+        "points": 0
+      },
+      "specific_recipient_named": {
+        "value": true,
+        "points": 2
+      }
+    },
+    "source_urls": [
+      "https://www.prnewswire.com/news-releases/epic-blue-marketing-contributes-more-than-50-000-in-professional-services-supporting-nonprofits-and-startups-in-2026--302947448.html"
+    ],
+    "source_names": [
+      "PR Newswire"
+    ],
+    "source_channels": [
+      "PR Wire"
+    ],
+    "date_found": "2026-11-21T14:06:19.006524+00:00",
+    "is_duplicate_of": null
   }
 ]
