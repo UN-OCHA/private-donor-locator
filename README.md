@@ -1,4 +1,4 @@
-# Corporate Giving Monitor
+# Private Donor Monitor
 
 A tracker of private-sector (corporate) donations to UN agencies, INGOs,
 and NGOs — built to surface donations that aren't centrally logged
