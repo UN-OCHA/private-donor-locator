@@ -1,8 +1,14 @@
 name: Daily donation scan
 
+# PAUSED — the scheduled trigger below is commented out, so this workflow
+# no longer runs automatically and makes no outbound requests to Google
+# News, GDELT, Media Cloud, AWS Bedrock, or anywhere else. It can still be
+# run manually from the Actions tab (workflow_dispatch) if needed for
+# testing. See README.md's "Pausing and resuming" section for how to turn
+# the schedule back on.
 on:
-  schedule:
-    - cron: "0 6 * * *"
+  # schedule:
+  #   - cron: "0 6 * * *"
   workflow_dispatch:
     inputs:
       wipe_today:

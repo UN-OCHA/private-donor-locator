@@ -1,8 +1,14 @@
 name: Weekly email digest
 
+# PAUSED — the scheduled trigger below is commented out, so this workflow
+# no longer runs automatically and sends no email. It can still be run
+# manually from the Actions tab (workflow_dispatch) if needed for testing
+# (email.enabled in config/settings.yaml must also be true for it to
+# actually send anything even then). See README.md's "Pausing and
+# resuming" section for how to turn the schedule back on.
 on:
-  schedule:
-    - cron: "0 8 * * 5"
+  # schedule:
+  #   - cron: "0 8 * * 5"
   workflow_dispatch: {}
 
 jobs:
